@@ -44,7 +44,7 @@ public class AuthFilter implements Filter {
         boolean loggedIn = (session != null && session.getAttribute("user") != null);
 
         if (isPublic || loggedIn) {
-            // Nếu vào /admin/* nhưng không phải admin -> chặn
+            // Nếu vào admin nhưng không phải admin -> chặn
             if (path.startsWith("/admin/") && loggedIn) {
                 String role = (String) session.getAttribute("role");
                 if (role == null || !role.equalsIgnoreCase("admin")) {

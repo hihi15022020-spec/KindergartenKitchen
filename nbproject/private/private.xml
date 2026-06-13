@@ -3,20 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/PRJ301/PRJ/src/java/model/Use.java</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/serverlet/LogoutServlet.java</file>
-            <file>file:/D:/PRJ301/PRJ/web/index.html</file>
-            <file>file:/D:/PRJ301/PRJ/web/common/footer.jsp</file>
-            <file>file:/D:/PRJ301/PRJ/web/auth/login.jsp</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/util/DBConnection.java</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/dao/UseDAO.java</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/serverlet/AdminDashboardServlet.java</file>
-            <file>file:/D:/PRJ301/PRJ/web/common/header.jsp</file>
-            <file>file:/D:/PRJ301/PRJ/web/WEB-INF/web.xml</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/model/Role.java</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/filter/AuthFilter.java</file>
-            <file>file:/D:/PRJ301/PRJ/web/admin/dashboard.jsp</file>
-            <file>file:/D:/PRJ301/PRJ/src/java/serverlet/LoginServlet.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/serverlet/LoginServlet.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/serverlet/AdminDashboardServlet.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/filter/AuthFilter.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/model/Use.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/web/auth/login.jsp</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/util/DBConnection.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/web/common/header.jsp</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/web/admin/dashboard.jsp</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/model/Role.java</file>
+            <file>file:/D:/PRJ301/QuanLyBepAn/src/java/dao/UseDAO.java</file>
         </group>
     </open-files>
 </project-private>

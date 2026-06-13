@@ -6,7 +6,7 @@
 
     <display-name>SchoolManagementSystem</display-name>
 
-    <!-- ===================== FILTER ===================== -->
+    <!-- FILTER -->
     <filter>
         <filter-name>AuthFilter</filter-name>
         <filter-class>filter.AuthFilter</filter-class>
@@ -21,16 +21,16 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
 
-    <!-- ===================== P1: Auth & Admin ===================== -->
+    <!--  P1: Auth & Admin -->
     <!-- Servlet dùng @WebServlet annotation, không cần khai báo ở đây -->
 
-    <!-- ===================== P2: Menu ===================== -->
+    <!-- P2: Menu -->
     <!-- (để trống cho P2) -->
 
-    <!-- ===================== P3: Attendance & Student ===================== -->
+    <!-- P3: Attendance & Student -->
     <!-- (để trống cho P3) -->
 
-    <!-- ===================== P4: Ingredient & Notification ===================== -->
+    <!--  P4: Ingredient & Notification -->
     <!-- (để trống cho P4) -->
 
 </web-app>

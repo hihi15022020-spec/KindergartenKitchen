@@ -9,7 +9,7 @@ public class DBConnection {
     private static final String PORT = "1433";
     private static final String DB_NAME = "QuanLyBepAn"; // đổi tên DB nếu khác
     private static final String USER = "sa";
-    private static final String PASSWORD = "123"; // đổi mật khẩu thật
+    private static final String PASSWORD = "123"; 
 
     private static final String URL = "jdbc:sqlserver://" + SERVER_NAME + ":" + PORT
             + ";QuanLyBepAn=" + DB_NAME
